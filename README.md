@@ -5,6 +5,8 @@
 
 This is the public repository of [Deck for Reddit](http://rdddeck.com). Please open a ticket for any suggestions and bug reports.
 
+> Build my own Reddit desktop web-app cause I'm sick and tired of wasted negative spaces - @snwfog on [indiehackers.com](https://www.indiehackers.com/post/build-my-own-reddit-desktop-web-app-cause-im-sick-and-tired-of-wasted-negative-spaces-c65905c8a2)
+
 ## Developer
 
 - [@snwfog](https://github.com/snwfog)
