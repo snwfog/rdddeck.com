@@ -1,7 +1,7 @@
 # <a href="http://rdddeck.com/"><img src="https://raw.githubusercontent.com/snwfog/rdddeck/master/icon-180.png" height="128" alt="Deck for Reddit"></a>
 
 ## Deck for Reddit
-<a href="http://rdddeck.com/"><img src="https://raw.githubusercontent.com/snwfog/rdddeck/master/preview.png" height="1094" alt="Deck for Reddit"></a>
+<a href="http://rdddeck.com/"><img src="https://raw.githubusercontent.com/snwfog/rdddeck/master/preview.png" width="1024" height="631" alt="Deck for Reddit"></a>
 
 [Deck for Reddit](http://rdddeck.com) is an alternative way of browsing [Reddit](https://www.reddit.com). It's optimized for desktop, taking advantage of wide-screen and large monitor. It looks just as beautiful on tablets and mobiles.
 
