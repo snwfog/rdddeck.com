@@ -1,5 +1,7 @@
 # <a href="http://rdddeck.com/"><img src="https://raw.githubusercontent.com/snwfog/rdddeck/master/icon-180.png" height="128" alt="Deck for Reddit"></a>
 
+<a href="https://www.producthunt.com/posts/deck-for-reddit?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-deck-for-reddit" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=230616&theme=dark" alt="Deck for Reddit - A desktop optimized, alternative way of browsing Reddit. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
 ## Deck for Reddit
 <a href="http://rdddeck.com/"><img src="https://raw.githubusercontent.com/snwfog/rdddeck/master/preview.png" width="1024" height="631" alt="Deck for Reddit"></a>
 
